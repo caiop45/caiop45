@@ -1,9 +1,12 @@
-## About Me: 🌟
+About Me: 🌟
 
-🎓 Pursuing a Computer Science degree at the **University of São Paulo**, I am a Junior Quality Assurance Engineer with a deep proficiency in `JavaScript`, `TypeScript`, `Java`, and `Python`.
+🎓 As an analytical and passionate individual pursuing a degree in Molecular Sciences at the University of São Paulo, I specialize in data analysis and market product analysis with a keen focus on identifying and implementing improvements through data-driven strategies.
 
-🤖 Specializing in **test automation**, I have hands-on experience with tools like <code>Cypress</code> and am well-versed in the intricacies of automated testing.
+💻 Skilled in data manipulation and ETL processes, I possess a deep proficiency in SQL, Python, Java, JavaScript, and TypeScript, complemented by advanced expertise in Excel, Tableau, and Power BI.
 
-🔄 My background in **Agile** and **Scrum** methodologies ensures that I am adept at facilitating **continuous deliveries** and integrating QA seamlessly into the development lifecycle.
+🔍 My analytical mindset, coupled with continuous curiosity, drives my approach to problem-solving and process optimization. I am adept at adapting processes to meet the diverse needs of people and companies.
 
-📂 This profile showcases my personal projects, reflecting my dedication to the evolving landscape of Quality Assurance and the principles of agile processes. 🚀
+🌐 Leveraging my experiences in teamwork and teaching abilities, I excel in roles that require both technical proficiency and the ability to collaborate and lead in a team environment.
+
+🌟 This profile is a testament to my dedication to ongoing learning and my commitment to excellence in the fields of data analysis and quality customer service. 🚀
+
